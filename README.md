@@ -16,7 +16,7 @@ A responsive React + TypeScript + Redux application for:
 
 ## How to Run Locally
 ```bash
-git clone https://github.com/your-username/webcam-face-detection.git
+git clone https://github.com/pbgo2/webcam-face-detection.git
 cd webcam-face-detection
 npm install
 npm start
